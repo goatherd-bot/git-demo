@@ -13,6 +13,6 @@ hello Jun! hello Git!
 hello Jun! hello Git!
 111111111111111111111
 222222222222222222222
-check hello.txt master
-check hello.txt
-hont-fix text
+check hello.txt master test
+check hello.txt hont-fix test
+11111111111111111111111111111
